@@ -1,0 +1,10 @@
+2017-05-30 11:22:31,007 INFO  [Log4jClass] New driver instantiated 
+2017-05-30 11:22:31,025 INFO  [Log4jClass] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 11:22:31,801 INFO  [Log4jClass] Web application launched 
+2017-05-30 11:24:20,101 INFO  [Log4jClass] New driver instantiated 
+2017-05-30 11:24:20,105 INFO  [Log4jClass] Implicit wait applied on the driver for 10 seconds 
+2017-05-30 11:24:26,371 INFO  [Log4jClass] Web application launched 
+2017-05-30 11:24:30,106 INFO  [Log4jClass] Click action performed on My Account link 
+2017-05-30 11:24:30,223 INFO  [Log4jClass] Username entered in the Username text box 
+2017-05-30 11:24:30,330 INFO  [Log4jClass] Password entered in the Password text box 
+2017-05-30 11:24:30,428 INFO  [Log4jClass] Click action performed on Submit button 
